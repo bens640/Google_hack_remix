@@ -1,6 +1,6 @@
 article{
 padding-top: 30px;
-    margin: 20 0px;
+    margin: 20px 0px 0px 0px;
 }
 #google{
     max-width: 100px;
@@ -258,10 +258,11 @@ padding-top: 30px;
 
 }
 #bluebutton{
-    max-width: 60px;
-    max-height: 15px;
+    max-width: 150px;
+    max-height: 20px;
     background-color: blue;
     left: 1000px;
+    margin-top: 13px;
 }
 #footer{
     display: inline;
